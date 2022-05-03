@@ -29,6 +29,6 @@
 
 - 🔭 Hoje trabalho com Front-END & Back-END
 - 💻 Formado em Desenvolvimento de Sistemas Web
-- 🌱 Atualmente estou cursando engenharia da computação
+- 🌱 Atualmente estou cursando Engenharia da computação
 - 😄 Pronouns: Ele/Dele
 
