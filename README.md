@@ -32,6 +32,6 @@
 - 💻 Formado em Desenvolvimento de Sistemas Web
 - 💻 Formado em Web Design UX/UI
 - 💻 Formado em Front End   
-- 🌱 Atualmente estou cursando Engenharia da computação
-- 😄 Pronouns: Ele/Dele
+- 💻 Atualmente estou cursando Engenharia da computação
+- 🙏🏾 Abençoado por Deus
 
