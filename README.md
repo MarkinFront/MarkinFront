@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marcos Vinícius
 
 <div>
-  ‹p align="center" style-"border-radius: 100%"> <img height-"auto" width-"1096" src="/assets/perfil.jpg"> </p>
+  <p align="center" style-"border-radius: 100%"> <img height-"auto" width-"1096" src="/assets/perfil.jpg"> </p>
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/edududuribeiro/">Marcos Vinícius 😃️</a>
