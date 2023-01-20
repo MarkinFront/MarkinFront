@@ -59,5 +59,6 @@
 - 💻 Formado em Web Design UX/UI
 - 💻 Formado em Front End   
 - 💻 Atualmente estou cursando Engenharia da computação
+- 💻 +100 Certificações na Área de TI pela Escola Alura Academy
 - 🙏🏾 Abençoado por Deus
 
