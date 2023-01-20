@@ -1,4 +1,5 @@
 ## Olá! Eu sou o Marcos Vinícius
+‹p align="center" style-"border-radius: 100%">cimg height-"auto" width-"1096" src="/assets/perfil.jpeg" *</p>
 <div>
   
   <h1 align="center">
@@ -12,9 +13,7 @@
 
   </p>
   
-  <p align="center">
-    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
-  </p>
+
   
 </div>
 
