@@ -1,24 +1,24 @@
 ## Olá! Eu sou o Marcos Vinícius
 
+
+ <p class="profile" align="center" > <img height="auto" width="10%" border="100%" src="/img/profile.jpeg">
+ 
 <div>
-  <p align="center" style-"border-radius: 100%"> <img height-"auto" width-"1096" src="/assets/perfil.jpg"> </p>
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/edududuribeiro/">Marcos Vinícius 😃️</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End 
-    <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
-
-  </p>
+    Sou Desenvolvedor Full-Stack formado em Engenharia Da Computação pela Faculdade IERT - Gran Tietê, acrescido em Desenvolvimento de Sistemas pela Escola Tecnica ETEC Comendador João Rays, bem como +100 Certificações pela escola de tecnologia Alura Academy. Atualmente desempenho importante papel como Desenvolvedor Front-End na qual estão direcionados meus estudos.
+    </p>
   
 
   
 </div>
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/MarkinFront">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
