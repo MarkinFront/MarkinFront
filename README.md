@@ -1,7 +1,4 @@
 
-
-
- <p class="profile" align="center" > <img height="auto" width="10%" border="100%" src="/img/profile.jpeg">
  
 <div>
   <h1 align="center">
