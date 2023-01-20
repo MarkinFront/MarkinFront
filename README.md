@@ -6,7 +6,7 @@
 <div>
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Marcos Vinícius 😃️</a>
+    <a href="https://www.linkedin.com/in/marcosviniciusci/">Marcos Vinícius 😃️</a>
   </h1>
   
   <p align="center">
