@@ -7,7 +7,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Full-Stack formado em Engenharia Da Computação pela Faculdade IERT - Gran Tietê, acrescido em Desenvolvimento de Sistemas pela Escola Tecnica ETEC Comendador João Rays, bem como +100 Certificações pela escola de tecnologia Alura Academy. Atualmente desempenho importante papel como Desenvolvedor Front-End na qual estão direcionados meus estudos.
+    Sou Desenvolvedor Full-Stack formado em Engenharia Da Computação pela Faculdade IERT - Gran Tietê, formado em Desenvolvimento de Sistemas pela Escola Tecnica ETEC Comendador João Rays, bem como +100 Certificações pela escola de tecnologia Alura Academy. Atualmente desempenho importante papel como Desenvolvedor Front-End na qual estão direcionados meus estudos.
     </p>
   
 
